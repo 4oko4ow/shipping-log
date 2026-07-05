@@ -32,8 +32,9 @@ find <projects-root>/*/docs -name "*.md" -mtime -7 2>/dev/null
 
 **Founder layer** - git does not capture this, so ALWAYS ask the user:
 
-- **wins**: programs or communities joined, grants applied/received, features and
-  mentions by others, partnerships, launches, notable intros
+- **wins**: only the user's own actions - applied, shipped, joined, launched,
+  submitted. Mentions and features BY others belong in a real-time reply when they
+  happen, never recycled into the weekly log (private summary only)
 - **decided**: bets started or dropped this week - the decision plus one line of why
 - **learned**: one insight from users, research, or competitors worth quoting
 
